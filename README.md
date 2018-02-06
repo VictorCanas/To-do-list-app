@@ -1,4 +1,7 @@
 # To-do-list-app
+
+Live version: https://victorcanas.github.io/To-do-list-app/
+
 A to do list app for CSIS 408 - Web and Mobile Programming. Made using HTML/CSS/JavaScript and heavy use of Jquery. Using a mobile first approach and inspired by the book JavaScript &amp; Jquery - Jon Duckett. 
 
 - Users can add new list item
